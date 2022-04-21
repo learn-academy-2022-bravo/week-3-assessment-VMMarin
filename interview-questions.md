@@ -44,6 +44,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
   Your answer: Yarn is a package manager
 
   Researched answer: Yarn is a package manager. It combines JSX and CSS files into a bundle , allows for the files to be imported and exported, streamling app building and integration of varying components/languages
+    modifies node modules
 
 
 
@@ -51,16 +52,16 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Function without a name - open/empty parantheses ina function, for example
 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Conditional rendering:
+1. Conditional rendering: only rendering certain items depending on current state
 
-2. Object-oriented programming:
+2. Object-oriented programming: programming model that focueses on manipukating data/objects
 
-3. Ruby:
+3. Ruby: server side scripting language, open source, 
 
 4. Ruby blocks:
 
